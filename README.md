@@ -1,0 +1,2 @@
+# Einstein_Chess_revise
+Java版本的Einstein棋修订
